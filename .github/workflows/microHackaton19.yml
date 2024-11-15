@@ -20,4 +20,5 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
     - name: Despliegue entorno
-      run: echo "Desplegando en el entorno ${{ github.event.inputs.entornos }} "
+      run: echo "Test Desplegando en el entorno ${{ github.event.inputs.entornos }} "
+      
