@@ -12,9 +12,10 @@ Se propone restringir la ejecución del workflow de despliegue cuando los entorn
 # Implementación:
 1.	Crear un repositorio en GitHub para almacenar el código fuente de la aplicación de TuEmpresa (puedes reutilizar el de talleres anteriores).
 2.	Crear un workflow en el repositorio que tome como parámetro de entrada el entorno de destino, este se debe seleccionar en un desplegable entre los entornos existentes (dev, test, pre, pro). El workflow simplemente imprimirá, con un echo, “Desplegando en el entorno X”
-3.	Configura los permisos para que la ejecución del workflow, cuando el entorno de destino sea pre o pro, deba ser aprobada por alguien del equipo de DevOps. 
-    o	Crea una organización de GitHub gratuita y dos equipo dentro de ella.
-    o	Invita a dos usuarios a la organización, uno a cada equipo.
-    o	Crear los entornos de GitHub y la protection rule.
-    o	Crea el archivo CODEOWNER con el equipo que pueda editar en .github.
-    o	Restringir la forma de mergear código a main, permitiéndolo únicamente a través de Pull Request.
+3.	Configura los permisos para que la ejecución del workflow, cuando el entorno de destino sea pre o pro, deba ser aprobada por alguien del equipo de DevOps.
+
+  - Crea una organización de GitHub gratuita y dos equipo dentro de ella.
+  - Invita a dos usuarios a la organización, uno a cada equipo.
+  - Crear los entornos de GitHub y la protection rule.
+  - Crea el archivo CODEOWNER con el equipo que pueda editar en .github.
+  - Restringir la forma de mergear código a main, permitiéndolo únicamente a través de Pull Request.
