@@ -36,24 +36,24 @@ Se propone restringir la ejecución del workflow de despliegue cuando los entorn
 
     ![image](https://github.com/user-attachments/assets/24c7c14e-5a9b-4f63-96a0-bf9532ff7011)
 
-Si se ejecuta el workflow en pre o pro, el workflow se queda parado hasta que alguien del equipo de DevOps acepte la ejecución:
+  Si se ejecuta el workflow en pre o pro, el workflow se queda parado hasta que alguien del equipo de DevOps acepte la ejecución:
 
-![image](https://github.com/user-attachments/assets/94e49010-be42-48bc-909f-1a3e9a68afa0)
+  ![image](https://github.com/user-attachments/assets/94e49010-be42-48bc-909f-1a3e9a68afa0)
 
-En este caso el miembro de DevOps sería mi mismo usuario:
+  En este caso el miembro de DevOps sería mi mismo usuario:
 
-![image](https://github.com/user-attachments/assets/093efe82-85f2-4d85-b290-d28bd78a292f)
+  ![image](https://github.com/user-attachments/assets/093efe82-85f2-4d85-b290-d28bd78a292f)
 
-Aparecerá una notificación al usuario o usuarios que tengan que aceptar la ejecución (equipo DevOps):
+  Aparecerá una notificación al usuario o usuarios que tengan que aceptar la ejecución (equipo DevOps):
 
-![image](https://github.com/user-attachments/assets/cc1c11d2-ee5e-4055-8b18-6c2e0023699a)
+  ![image](https://github.com/user-attachments/assets/cc1c11d2-ee5e-4055-8b18-6c2e0023699a)
 
-Se aprueba la ejecución:
+  Se aprueba la ejecución:
 
-![image](https://github.com/user-attachments/assets/310c09f1-2c76-4d48-8c9c-4e341f4298a2)
+  ![image](https://github.com/user-attachments/assets/310c09f1-2c76-4d48-8c9c-4e341f4298a2)
 
-Una vez aprobado el despliegue, el workflow se ejecuta correctamente:
+  Una vez aprobado el despliegue, el workflow se ejecuta correctamente:
 
-![image](https://github.com/user-attachments/assets/277ece54-8e99-47e6-9abb-0cbc24e9bd85)
+  ![image](https://github.com/user-attachments/assets/277ece54-8e99-47e6-9abb-0cbc24e9bd85)
 
 
