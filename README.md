@@ -1,4 +1,4 @@
-# microhackaton19
+# Microhackaton19
 
 # Contexto:
 Eres el Release Manager de la famosa empresa TuEmpresa, una empresa de comercio electrónico en rápido crecimiento. 
