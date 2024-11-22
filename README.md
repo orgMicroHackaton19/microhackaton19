@@ -15,6 +15,7 @@ Se propone restringir la ejecución del workflow de despliegue cuando los entorn
 3.	Configura los permisos para que la ejecución del workflow, cuando el entorno de destino sea pre o pro, deba ser aprobada por alguien del equipo de DevOps.
 
   - Crea una organización de GitHub gratuita y dos equipo dentro de ella.
+    
     ![image](https://github.com/user-attachments/assets/18186281-2f6a-46da-948e-3708c395407d)
 
   - Invita a dos usuarios a la organización, uno a cada equipo.
